@@ -521,7 +521,6 @@ public class Sudoku extends LatinSquare {
 			}
 		}
 		return multiplier;
-		
 	}
 	
 	private boolean IsDifficultyMet(int iPossibleValues)
